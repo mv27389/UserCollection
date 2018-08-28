@@ -1,14 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Net.Http;
-using System.Web.Http;
+﻿using System.Web.Http;
 using Microsoft.Owin.Security.OAuth;
-using Newtonsoft.Json.Serialization;
 
 namespace UserCollection
 {
-    public static class WebApiConfig
+	public static class WebApiConfig
     {
         public static void Register(HttpConfiguration config)
         {
@@ -19,6 +14,8 @@ namespace UserCollection
 
             // Web API routes
             config.MapHttpAttributeRoutes();
+
+			config.MessageHandlers.Add(new TokenValidationHandler());
 
             config.Routes.MapHttpRoute(
                 name: "DefaultApi",

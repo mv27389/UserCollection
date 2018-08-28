@@ -109,4 +109,15 @@ E:\Manish\Study\UserCollection\UserCollection\bin\UserCollection.Core.Repository
 E:\Manish\Study\UserCollection\UserCollection\bin\UserCollection.Core.Repository.Nhibernate.dll.config
 E:\Manish\Study\UserCollection\UserCollection\bin\NHibernate.xml
 E:\Manish\Study\UserCollection\UserCollection\bin\Iesi.Collections.xml
-E:\Manish\Study\UserCollection\UserCollection\bin\User.hbm.xml
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.JsonWebTokens.dll
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.Logging.dll
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.Tokens.dll
+E:\Manish\Study\UserCollection\UserCollection\bin\System.IdentityModel.Tokens.Jwt.dll
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.JsonWebTokens.pdb
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.JsonWebTokens.xml
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.Logging.pdb
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.Logging.xml
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.Tokens.pdb
+E:\Manish\Study\UserCollection\UserCollection\bin\Microsoft.IdentityModel.Tokens.xml
+E:\Manish\Study\UserCollection\UserCollection\bin\System.IdentityModel.Tokens.Jwt.pdb
+E:\Manish\Study\UserCollection\UserCollection\bin\System.IdentityModel.Tokens.Jwt.xml

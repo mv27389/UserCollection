@@ -1,11 +1,8 @@
 ﻿using System;
 using System.Diagnostics.Contracts;
 using System.Linq;
-using System.Web;
-using Castle.Windsor;
 using UserCollection.Contracts;
 using UserCollection.Core.Repository;
-using UserCollection.Core.Repository.Nhibernate;
 using UserCollection.Services.Impl.Mapping;
 
 namespace UserCollection.Services.Impl
@@ -17,12 +14,9 @@ namespace UserCollection.Services.Impl
 
 		public UserService(IRepository repository)
 		{
-			//Contract.Requires(repository != null);
-			IContainerAccessor containerAccessor = HttpContext.Current.ApplicationInstance as IContainerAccessor;
+			Contract.Requires(repository != null);
 
-			//_repository = containerAccessor.Container.Resolve<Repository>();
 			_repository = repository;
-			//_repository = new Repository();
 		}
 		public void ActivateUser(Guid userId)
 		{

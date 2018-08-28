@@ -1,0 +1,6 @@
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\bin\Release\UserCollection.Core.Repository.dll
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\bin\Release\UserCollection.Core.Repository.pdb
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\obj\Release\UserCollection.Core.Repository.csprojResolveAssemblyReference.cache
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\obj\Release\UserCollection.Core.Repository.csproj.CoreCompileInputs.cache
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\obj\Release\UserCollection.Core.Repository.dll
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\obj\Release\UserCollection.Core.Repository.pdb

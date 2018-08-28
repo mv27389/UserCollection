@@ -1,0 +1,5 @@
+E:\Manish\Study\UserCollection\UserCollection.Database\bin\Release\UserCollection.Database.dacpac
+E:\Manish\Study\UserCollection\UserCollection.Database\bin\Release\UserCollection.Database.dll
+E:\Manish\Study\UserCollection\UserCollection.Database\bin\Release\UserCollection.Database.pdb
+E:\Manish\Study\UserCollection\UserCollection.Database\obj\Release\UserCollection.Database.dll
+E:\Manish\Study\UserCollection\UserCollection.Database\obj\Release\UserCollection.Database.pdb
