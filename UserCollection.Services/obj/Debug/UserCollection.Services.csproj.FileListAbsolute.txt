@@ -1,0 +1,13 @@
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Services.dll
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Services.pdb
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Contracts.dll
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Entities.dll
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Core.Repository.dll
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Contracts.pdb
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Entities.pdb
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\UserCollection.Core.Repository.pdb
+E:\Manish\Study\UserCollection\UserCollection.Services\obj\Debug\UserCollection.Services.csprojResolveAssemblyReference.cache
+E:\Manish\Study\UserCollection\UserCollection.Services\obj\Debug\UserCollection.Services.csproj.CoreCompileInputs.cache
+E:\Manish\Study\UserCollection\UserCollection.Services\obj\Debug\UserCollection.Services.dll
+E:\Manish\Study\UserCollection\UserCollection.Services\obj\Debug\UserCollection.Services.pdb
+E:\Manish\Study\UserCollection\UserCollection.Services\bin\Debug\User.hbm.xml

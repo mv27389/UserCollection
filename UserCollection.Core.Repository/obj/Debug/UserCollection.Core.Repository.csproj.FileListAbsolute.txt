@@ -1,0 +1,5 @@
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\bin\Debug\UserCollection.Core.Repository.dll
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\bin\Debug\UserCollection.Core.Repository.pdb
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\obj\Debug\UserCollection.Core.Repository.csproj.CoreCompileInputs.cache
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\obj\Debug\UserCollection.Core.Repository.dll
+E:\Manish\Study\UserCollection\UserCollection.Core.Repository\obj\Debug\UserCollection.Core.Repository.pdb
