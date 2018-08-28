@@ -1,5 +1,0 @@
-E:\Manish\Study\UserCollection\UserCollection.Contracts\bin\Debug\UserCollection.Contracts.dll
-E:\Manish\Study\UserCollection\UserCollection.Contracts\bin\Debug\UserCollection.Contracts.pdb
-E:\Manish\Study\UserCollection\UserCollection.Contracts\obj\Debug\UserCollection.Contracts.csproj.CoreCompileInputs.cache
-E:\Manish\Study\UserCollection\UserCollection.Contracts\obj\Debug\UserCollection.Contracts.dll
-E:\Manish\Study\UserCollection\UserCollection.Contracts\obj\Debug\UserCollection.Contracts.pdb

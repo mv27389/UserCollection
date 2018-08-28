@@ -1,9 +1,0 @@
-E:\Manish\Study\UserCollection\UserCollection.Entities\bin\Release\User.hbm.xml
-E:\Manish\Study\UserCollection\UserCollection.Entities\bin\Release\UserCollection.Entities.dll
-E:\Manish\Study\UserCollection\UserCollection.Entities\bin\Release\UserCollection.Entities.pdb
-E:\Manish\Study\UserCollection\UserCollection.Entities\bin\Release\UserCollection.Core.Repository.dll
-E:\Manish\Study\UserCollection\UserCollection.Entities\bin\Release\UserCollection.Core.Repository.pdb
-E:\Manish\Study\UserCollection\UserCollection.Entities\obj\Release\UserCollection.Entities.csprojResolveAssemblyReference.cache
-E:\Manish\Study\UserCollection\UserCollection.Entities\obj\Release\UserCollection.Entities.csproj.CoreCompileInputs.cache
-E:\Manish\Study\UserCollection\UserCollection.Entities\obj\Release\UserCollection.Entities.dll
-E:\Manish\Study\UserCollection\UserCollection.Entities\obj\Release\UserCollection.Entities.pdb

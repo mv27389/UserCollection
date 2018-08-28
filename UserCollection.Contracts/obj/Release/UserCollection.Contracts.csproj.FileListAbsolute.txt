@@ -1,6 +1,0 @@
-E:\Manish\Study\UserCollection\UserCollection.Contracts\bin\Release\UserCollection.Contracts.dll
-E:\Manish\Study\UserCollection\UserCollection.Contracts\bin\Release\UserCollection.Contracts.pdb
-E:\Manish\Study\UserCollection\UserCollection.Contracts\obj\Release\UserCollection.Contracts.csprojResolveAssemblyReference.cache
-E:\Manish\Study\UserCollection\UserCollection.Contracts\obj\Release\UserCollection.Contracts.csproj.CoreCompileInputs.cache
-E:\Manish\Study\UserCollection\UserCollection.Contracts\obj\Release\UserCollection.Contracts.dll
-E:\Manish\Study\UserCollection\UserCollection.Contracts\obj\Release\UserCollection.Contracts.pdb

@@ -120,7 +120,7 @@ namespace UserCollection.Controllers
 			}
 			catch (Exception ex)
 			{
-				return false;
+				throw ex;
 			}
 		}
 

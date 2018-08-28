@@ -3,3 +3,12 @@ E:\Manish\Study\UserCollection\UserCollection.Database\bin\Debug\UserCollection.
 E:\Manish\Study\UserCollection\UserCollection.Database\bin\Debug\UserCollection.Database.pdb
 E:\Manish\Study\UserCollection\UserCollection.Database\obj\Debug\UserCollection.Database.dll
 E:\Manish\Study\UserCollection\UserCollection.Database\obj\Debug\UserCollection.Database.pdb
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\bin\Debug\UserCollection.Database.dacpac
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\bin\Debug\UserCollection.Database.dll
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\bin\Debug\UserCollection.Database.pdb
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\obj\Debug\UserCollection.Database.dll
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\obj\Debug\UserCollection.Database.pdb
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\obj\Debug\Model.xml
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\obj\Debug\refactor.xml
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\obj\Debug\postdeploy.sql
+E:\Manish\Study\PersonalGIT\UserCollection\UserCollection.Database\obj\Debug\predeploy.sql
