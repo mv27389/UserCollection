@@ -23,6 +23,10 @@ namespace UserCollection.Controllers
 			_userService = userService;
 		}
 
+		/// <summary>
+		/// Get the access token to call oter API's.
+		/// </summary>
+		/// <returns>Returns access token.</returns>
 		[HttpPost]
 		[Route("authenticate")]
 		public IHttpActionResult Authenticate()
@@ -110,9 +114,9 @@ namespace UserCollection.Controllers
 		{
 			try
 			{
-				_userService.DeleteUser(id);
+				var result = _userService.DeleteUser(id);
 
-				return true;
+				return result;
 			}
 			catch (Exception ex)
 			{
