@@ -1,6 +1,8 @@
 #UserCollection
 
-UserCollection is a web api application to manage user contacts. This application has using NHibernate as ORM, Castle Windsor for Dependency Injection, log4net for logging, JWT tokens for authentication and Autofixture & MOQ for unit tests. 
+UserCollection is a web api application to manage user contacts. This application uses SQL Server 2012 and is build for .Net Framework 4.5.2.
+
+This application has using NHibernate as ORM, Castle Windsor for Dependency Injection, log4net for logging, JWT tokens for authentication and Autofixture & MOQ for unit tests. 
 
 Usuage Guidelines:
 1. Download the project.
