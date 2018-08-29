@@ -61,6 +61,10 @@
       <Project>{72A372D8-B33E-4171-9DAB-B316B08A5A1A}</Project>
       <Name>UserCollection.Contracts</Name>
     </ProjectReference>
+    <ProjectReference Include="..\UserCollection.Core.Logging\UserCollection.Core.Logging.csproj">
+      <Project>{ea190000-379a-4dde-9e79-fbac0d91ea38}</Project>
+      <Name>UserCollection.Core.Logging</Name>
+    </ProjectReference>
     <ProjectReference Include="..\UserCollection.Core.Repository.Nhibernate\UserCollection.Core.Repository.Nhibernate.csproj">
       <Project>{3CC27333-638D-4532-9FAC-EDE4D463D834}</Project>
       <Name>UserCollection.Core.Repository.Nhibernate</Name>

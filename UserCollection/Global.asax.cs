@@ -23,6 +23,7 @@ namespace UserCollection
 			BundleConfig.RegisterBundles(BundleTable.Bundles);
 
 			InstallWindsorContainerInstallers(GlobalConfiguration.Configuration);
+			log4net.Config.XmlConfigurator.Configure();
 		}
 
 		private void InstallWindsorContainerInstallers(HttpConfiguration configuration)

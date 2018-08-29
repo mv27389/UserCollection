@@ -28,10 +28,6 @@ namespace UserCollection.Controllers
 		public IHttpActionResult Authenticate()
 		{
 
-			IHttpActionResult response;
-			HttpResponseMessage responseMsg = new HttpResponseMessage();
-			bool isUsernamePasswordValid = false;
-
 
 			string token = CreateToken();
 			//return the token
@@ -129,7 +125,7 @@ namespace UserCollection.Controllers
 		/// </summary>
 		/// <param name="id">User Id.</param>
 		/// <returns>Return True, if Active property is set to True for the user.</returns>
-		[Route("activate")]
+		[Route("{id}/activate")]
 		[HttpPut]
 		[Authorize]
 		public bool ActivateUser(Guid id)
@@ -151,7 +147,7 @@ namespace UserCollection.Controllers
 		/// </summary>
 		/// <param name="id">User Id.</param>
 		/// <returns>Return True, if Active property is set to False for the user.</returns>
-		[Route("deactivate")]
+		[Route("{id}/deactivate")]
 		[HttpPut]
 		[Authorize]
 		public bool DeactivateUser(Guid id)

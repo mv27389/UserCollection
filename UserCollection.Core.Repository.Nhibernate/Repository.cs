@@ -1,5 +1,4 @@
 ﻿using System;
-using System.Diagnostics.Contracts;
 using System.Linq;
 using NHibernate;
 using NHibernate.Linq;
@@ -9,11 +8,10 @@ namespace UserCollection.Core.Repository.Nhibernate
 	public class Repository : IRepository, IDisposable
 	{
 		private readonly ISession _session;
-		public Repository()//ISessionFactory sessionFactory)
+		public Repository()
 		{
 			NHibernate.Cfg.Configuration cfg = new NHibernate.Cfg.Configuration();
 			cfg.AddAssembly("UserCollection.Entities");
-			//Contract.Requires(sessionFactory != null);
 			ISessionFactory sessionFactory = cfg.BuildSessionFactory();
 			_session = sessionFactory.OpenSession();
 

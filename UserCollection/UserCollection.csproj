@@ -52,6 +52,9 @@
     <Reference Include="Castle.Windsor, Version=4.0.0.0, Culture=neutral, PublicKeyToken=407dd0808d44fbdc, processorArchitecture=MSIL">
       <HintPath>..\packages\Castle.Windsor.4.1.0\lib\net45\Castle.Windsor.dll</HintPath>
     </Reference>
+    <Reference Include="log4net, Version=2.0.8.0, Culture=neutral, PublicKeyToken=669e0ddf0bb1aa2a, processorArchitecture=MSIL">
+      <HintPath>..\packages\log4net.2.0.8\lib\net45-full\log4net.dll</HintPath>
+    </Reference>
     <Reference Include="Microsoft.AI.Agent.Intercept, Version=1.2.1.0, Culture=neutral, PublicKeyToken=31bf3856ad364e35, processorArchitecture=MSIL">
       <HintPath>..\packages\Microsoft.ApplicationInsights.Agent.Intercept.1.2.1\lib\net45\Microsoft.AI.Agent.Intercept.dll</HintPath>
       <Private>True</Private>
@@ -356,6 +359,14 @@
     <ProjectReference Include="..\UserCollection.Contracts\UserCollection.Contracts.csproj">
       <Project>{72a372d8-b33e-4171-9dab-b316b08a5a1a}</Project>
       <Name>UserCollection.Contracts</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserCollection.Core.Logging.Impl\UserCollection.Core.Logging.Impl.csproj">
+      <Project>{64b5d5ab-868a-4ad4-b14a-8ca61d5d679d}</Project>
+      <Name>UserCollection.Core.Logging.Impl</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\UserCollection.Core.Logging\UserCollection.Core.Logging.csproj">
+      <Project>{ea190000-379a-4dde-9e79-fbac0d91ea38}</Project>
+      <Name>UserCollection.Core.Logging</Name>
     </ProjectReference>
     <ProjectReference Include="..\UserCollection.Core.Repository.Nhibernate\UserCollection.Core.Repository.Nhibernate.csproj">
       <Project>{3CC27333-638D-4532-9FAC-EDE4D463D834}</Project>
