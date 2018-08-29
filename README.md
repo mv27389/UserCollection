@@ -12,7 +12,7 @@ Install Guidelines:
 8. Go to "Default Web Site" under "Sites". Right click on "Default Web Site" and select "Add Application".
 9. Give an alias to the application. Select application pool and browse to the output directory, set in Step 6 and click "Ok".
 
-Directory Structure
+Directory Structure: 
 Project has one Web API project (UserCollection) and 3 Solution folders, namely DataAccess, Services and UnitTests.
 
 UserCollection project contains the UserController which has all methods to manage user contacts.
