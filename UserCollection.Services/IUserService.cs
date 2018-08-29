@@ -31,7 +31,8 @@ namespace UserCollection.Services
 		/// Delete user from database.
 		/// </summary>
 		/// <param name="userId">User ID.</param>
-		void DeleteUser(Guid userId);
+		/// Returns True, if user is deleted.
+		bool DeleteUser(Guid userId);
 
 		/// <summary>
 		/// Activates a user. 
@@ -70,7 +71,7 @@ namespace UserCollection.Services
 			throw new NotImplementedException();
 		}
 
-		void IUserService.DeleteUser(Guid userId)
+		bool IUserService.DeleteUser(Guid userId)
 		{
 			Contract.Requires(userId != Guid.Empty);
 

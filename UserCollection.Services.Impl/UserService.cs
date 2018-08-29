@@ -67,7 +67,7 @@ namespace UserCollection.Services.Impl
 			_logger.Info(" END :: UserService.DeactivateUser()");
 		}
 
-		public void DeleteUser(Guid userId)
+		public bool DeleteUser(Guid userId)
 		{
 			_logger.Info(" START :: UserService.DeleteUser()");
 			Entities.User user = _repository.Read<Entities.User>(userId);
@@ -80,6 +80,8 @@ namespace UserCollection.Services.Impl
 
 			_repository.Delete<Entities.User>(user);
 			_logger.Info(" END :: UserService.DeleteUser()");
+
+			return true;
 		}
 
 		public IQueryable<User> GetUsers()
